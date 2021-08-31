@@ -1,7 +1,7 @@
 # Secure Contain Protect_SCP
 ### This is a mini project, which contains two sections. 
 - Section 1 is a webscraping project to obtain information on SCP Foundation, including Series number, name and object class. 
-- Section 2 is to visualize object class in a countplot and a pie chart. 
+- Section 2 is to visualize the size of object classes of each category in a countplot and a pie chart. 
  
 ### About SCP Foundation
 - The SCP Foundation is a fictional organization documented by the web-based collaborative-fiction project of the same name. The SCP object is then assigned an "object class" based on the difficulty of containing it.  
